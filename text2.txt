@@ -1,1 +1,2 @@
 thi is my text two file
+this is the second text
